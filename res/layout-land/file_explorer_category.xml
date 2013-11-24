@@ -323,14 +323,13 @@
 
 			<!-- category information -->
 
-			<net.micode.fileexplorer.CategoryBar
+			<com.lj.fileexplorer.CategoryBar
 				android:id="@+id/category_bar"
 				android:layout_width="35px"
 				android:layout_height="match_parent"
 				android:layout_marginLeft="20dp"
 				android:layout_marginRight="5dip" >
-			</net.micode.fileexplorer.CategoryBar>
-
+			</com.lj.fileexplorer.CategoryBar>
 			<LinearLayout
 				android:layout_width="wrap_content"
 				android:layout_height="match_parent"

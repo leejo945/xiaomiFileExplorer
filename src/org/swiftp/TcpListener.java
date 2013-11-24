@@ -19,10 +19,11 @@ along with SwiFTP.  If not, see <http://www.gnu.org/licenses/>.
 
 package org.swiftp;
 
-import net.micode.fileexplorer.FTPServerService;
 
 import java.net.ServerSocket;
 import java.net.Socket;
+
+import com.lj.fileexplorer.FTPServerService;
 
 import android.util.Log;
 

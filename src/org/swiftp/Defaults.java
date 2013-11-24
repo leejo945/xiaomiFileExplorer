@@ -35,7 +35,7 @@ public class Defaults {
 	public static int portNumber = 2121; 
 //	protected static int ipRetrievalAttempts = 5;
 	public static final int tcpConnectionBacklog = 5;
-	public static final String chrootDir =  net.micode.fileexplorer.Util.getSdDirectory();
+	public static final String chrootDir =  com.lj.fileexplorer.Util.getSdDirectory();
 	public static final boolean acceptWifi = true;
 	public static final boolean acceptNet = false; // don't incur bandwidth charges
 	public static final boolean stayAwake = false;
